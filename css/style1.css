@@ -1,0 +1,23 @@
+
+body{
+  background-image: url('http://media.nbcphiladelphia.com/images/1200*675/Snow-Flurries-Generic.jpg');
+}
+
+#about{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: pink solid 1px;
+  background-image: url('http://s3-ap-northeast-1.amazonaws.com/matome-img/matome_thumb/matome_20160223175251_56cc1de349833.png');
+}
+
+#email-collapse{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: blue solid 1px;
+  background-image: url("http://roxanacrisologo.com/wp-content/uploads/2016/10/fantastical-christmas-letter-background-craft-ideas-example-2.jpg");
+}
+
+.error{
+  color: red;
+}
+
